@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+h2{
+    font: bold 25px sans-serif;
+
+}
+
+header,section,footer,aside,nav,article,hgroup{
+    
+    display: block;
+}
+
+body{
+    text-align: center;
+}
+
+.agrupar{
+    background-color: rgb(230, 234, 243);
+    border: 1px solid black;
+    width: 960px;
+    margin: 15px auto;
+    padding: 100px;
+}
+
+.cabecera h1 {
+    background-color: rgb(69, 182, 129);
+    border: 1px solid beige;
+text-align: left;
+}
+
+.menu{
+    background-color: cadetblue;
+padding: 5px 15px;
+text-align: left;}
+    
+
+.menu li {
+    list-style: none;
+    
+    padding: 5px;
+    font: bold 14p verdana ;
+    display: inline-block;
+    
+}
+   
+
+.cabecera h1{text-align: left;}
+
+.seccion{
+    border: 1px solid black;
+    margin: 20px;
+    width: 600px;
+
+
+}
+
+
